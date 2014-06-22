@@ -1,7 +1,7 @@
 
 ## This function creates a special "vector" object that can cache the  inverse of a matrix.
 ## The matrix must be a square matrix and should be input into the makeCachMatrix function as a vector listing the values column by column
-## i.e. column 1 values, then column 2 values ....
+## i.e. column 1 values, then column 2 values then column 3 ....
 
 ## makeCachMatrix does the following
 
